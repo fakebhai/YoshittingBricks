@@ -4,13 +4,13 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.2.1")
 }
 // use an integer for version numbers
-version = -1
+version = 2
 
 
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    description = "Lorem ipsum"
+    description = "My ass hurts"
     authors = listOf("Cloudburst")
 
     /**
@@ -25,7 +25,7 @@ cloudstream {
     tvTypes = listOf("NSFW")
 
     requiresResources = true
-    language = "en"
+    language = "it"
 
     // random cc logo i found
     iconUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png"

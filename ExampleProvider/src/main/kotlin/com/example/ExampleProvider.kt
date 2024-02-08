@@ -10,7 +10,7 @@ class ExampleProvider(val plugin: TestPlugin) : MainAPI() { // all providers mus
     override var name = "Example sex provider"
     override val supportedTypes = setOf(TvType.NSFW)
 
-    override var lang = "en"
+    override var lang = "it"
 
     // enable this when your provider has a main page
     override val hasMainPage = true
