@@ -2,20 +2,20 @@
     {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/user/repo",
+        "repositoryUrl": "https://github.com/YoshiCantScript/YoshittingBricks",
         "fileSize": 8310,
         "status": 1,
-        "language": "en",
+        "language": "it",
         "authors": [
-            "Cloudburst"
+            "YoShat"
         ],
         "tvTypes": [
             "NSFW"
         ],
-        "version": -1,
-        "internalName": "ExampleProvider",
+        "version": 1,
+        "internalName": "IShat",
         "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/user/repo/builds/ExampleProvider.cs3",
-        "name": "ExampleProvider"
+        "url": "https://github.com/YoshiCantScript/YoshittingBricks/raw/builds/ExampleProvider.cs3",
+        "name": "IShat"
     }
 ]
